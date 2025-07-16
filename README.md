@@ -11,6 +11,6 @@ Have you ever gotten stuck while trying to configure an IP with a port (such as 
 Run the command below!
 
 ```bash
-bash <(curl -Ss https://raw.githubusercontent.com/uhAlexz/NginxPortTool/main.sh || wget -O - https://raw.githubusercontent.com/uhAlexz/NginxPortTool/main.sh) auto
+bash <(curl -Ss https://raw.githubusercontent.com/uhAlexz/NginxPortTool/main/main.sh || wget -O - https://raw.githubusercontent.com/uhAlexz/NginxPortTool/main/main.sh) auto
 ```
 
